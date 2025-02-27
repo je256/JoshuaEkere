@@ -1,5 +1,9 @@
 Hello there,
-My name is Joshua Ekere 
-I am transitioning from a design engineer to a data analyst
-I have an affinity for analytics in business development 
+
+My name is Joshua Ekere, and I have an affinity for analytics in business development with expertise in 
 I enjoy competitive and organized sports, sci-fi and thriller series
+
+
+Skills include: SQL, Excel, PowerBI 
+
+Welcome to my Projects
